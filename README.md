@@ -18,4 +18,4 @@ if percentage >= 60:
 elif percentage >= 40:
     print("Division: Pass")
 else:
-    print("Division: Fail")
+    print("Division: Fail") 
